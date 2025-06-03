@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    // wall size
+    // wall size 123
     private static final byte Size = 10;
     
     private static String[][] wall = new String[Size][Size];
